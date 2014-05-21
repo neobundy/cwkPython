@@ -16,7 +16,7 @@ def my_year_range(start, end, step=1):
 
 def my_year_range_with_bug(start, end, step=1):
 	"""
-		returns breaks the code
+		return breaks the code
 	"""
 	result = start
 	while result < end:
